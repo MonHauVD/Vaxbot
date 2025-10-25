@@ -1,0 +1,2 @@
+# Vaxbot
+For sending friend
